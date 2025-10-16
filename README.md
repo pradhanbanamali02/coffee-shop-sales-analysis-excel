@@ -1,13 +1,10 @@
-# ☕ Coffee Shop Sales Analysis — Excel Dashboard Project
+# Coffee Shop Sales Analysis — Excel Dashboard Project
 
 ## Project Overview
-This is my **first data analytics project**, where I explored and analyzed real-world business data using **Microsoft Excel**.  
-After working for about 2 years in the **pharmaceutical industry**, I realized I wanted more challenges and learning opportunities — so I decided to transition into **data analytics**.  
+This project focuses on analyzing and visualizing sales performance data for a coffee shop chain using **Microsoft Excel**.  
+The dataset, provided by **[Maven Analytics](https://mavenanalytics.io/data-playground)**, contains **149,117 transactions** from **January to June 2023** across **three store locations**.
 
-For this project, I used the **Coffee Shop Sales dataset** provided by **[Maven Analytics](https://mavenanalytics.io/data-playground)**.  
-The dataset contains **149,117 transactions** from **January to June 2023** across **3 store locations**.  
-
-The main goal was to analyze sales performance, customer buying patterns, and store revenue, and to design an interactive Excel dashboard that presents clear business insights.
+The goal of this project is to explore business performance, customer purchasing behavior, and store-level insights through interactive Excel dashboards.
 
 ---
 
@@ -68,7 +65,7 @@ Created new calculated columns in Power Query:
 - **Day Name**
 - **Hour**
 - **Day of Week**
-- **Month Number**
+- **Month Number`
 
 Reorganized the dataset to make it easier to analyze.
 
@@ -97,7 +94,7 @@ Used **Pivot Tables** and **Pivot Charts** to visualize:
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 | KPI | Description |
 |------|-------------|
 | **Total Sales** | Total revenue generated |
@@ -132,27 +129,12 @@ Used **Pivot Tables** and **Pivot Charts** to visualize:
 ---
 
 ## Learnings
-- Gained hands-on experience in **Power Query** for cleaning and shaping data.  
+- Practiced **Power Query** for data cleaning and shaping.  
 - Built **data models and KPIs** using Power Pivot.  
-- Designed a structured **Excel Dashboard** for storytelling.  
-- Learned how to interpret and communicate insights through visuals.  
+- Designed and structured an **Excel Dashboard** for storytelling.  
+- Interpreted data through visual analytics.  
 - Strengthened Excel analytics and visualization skills using real-world data.
 
 ---
 
 ## Project Structure
-
-## 📸 Dashboard Preview
-![Coffee Shop Dashboard](Images/coffee%20shop%20sales.png)
-
-
-## Dataset Source
-Dataset provided by **[Maven Analytics](https://mavenanalytics.io/data-playground/coffee-shop-sales)**  
-Used strictly for educational and learning purposes. 
-
-## Author
-**Banamali Pradhan** — Aspiring Data Analyst  
-📍 Transitioning from Pharmaceutical Industry to Data Analytics  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
-
-
