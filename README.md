@@ -138,3 +138,16 @@ Used **Pivot Tables** and **Pivot Charts** to visualize:
 ---
 
 ## Project Structure
+
+## 📸 Dashboard Preview
+![Coffee Shop Dashboard](Images/coffee%20shop%20sales.png)
+
+
+## Dataset Source
+Dataset provided by **[Maven Analytics](https://mavenanalytics.io/data-playground/coffee-shop-sales)**  
+Used strictly for educational and learning purposes. 
+
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
