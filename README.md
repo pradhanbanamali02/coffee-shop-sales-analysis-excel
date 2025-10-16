@@ -145,3 +145,8 @@ Used **Pivot Tables** and **Pivot Charts** to visualize:
 ## 📸 Dashboard Preview
 ![Coffee Shop Dashboard](Images/coffee%20shop%20sales.png)
 
+
+## Dataset Source
+Dataset provided by **[Maven Analytics](https://mavenanalytics.io/data-playground/coffee-shop-sales)**  
+Used strictly for educational and learning purposes.
+
