@@ -4,7 +4,7 @@
 This is my **first data analytics project**, where I explored and analyzed real-world business data using **Microsoft Excel**.  
 After working for about 2 years in the **pharmaceutical industry**, I realized I wanted more challenges and learning opportunities — so I decided to transition into **data analytics**.  
 
-For this project, I used the **Coffee Shop Sales dataset** provided by **[Maven Analytics](https://www.mavenanalytics.io/)**.  
+For this project, I used the **Coffee Shop Sales dataset** provided by **[Maven Analytics](https://mavenanalytics.io/data-playground)**.  
 The dataset contains **149,117 transactions** from **January to June 2023** across **3 store locations**.  
 
 The main goal was to analyze sales performance, customer buying patterns, and store revenue, and to design an interactive Excel dashboard that presents clear business insights.
