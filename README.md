@@ -143,5 +143,5 @@ Used **Pivot Tables** and **Pivot Charts** to visualize:
 ## Project Structure
 
 ## 📸 Dashboard Preview
-![Coffee Shop Dashboard](Images/Dashboard.png)
+![Coffee Shop Dashboard](Images/coffee%20shop%20sales.png)
 
